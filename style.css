@@ -1,0 +1,139 @@
+.picture {
+    width: 400px;
+    height: 600px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+    background-image:url('Hand.PNG');
+    background-size: 500px;
+    display: inline-block;
+    margin:40px; /* If you want no margin */
+    padding:40px; /*if your want to padding */
+
+  }
+  
+  #black {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+  div {
+    display: inline-block;
+    /* color: green;
+    border: 2px solid red;
+    margin: 10px 20px;
+    width: 120px;
+    font-size: 40px; */
+}
+
+
+.picture2 {
+    width: 400px;
+    height: 700px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+
+  }
+
+#brown {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+.picture3 {
+    width: 400px;
+    height: 600px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+    background-image:url('burn2.PNG');
+    background-size: 470px;
+    display: inline-block;
+    margin:40px; /* If you want no margin */
+    padding:40px; /*if your want to padding */
+
+
+  }
+
+#white {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+
+
+
+
+ .picture4 {
+    width: 400px;
+    height: 700px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+  }
+  
+  #black {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+  div {
+    display: inline-block;
+    /* color: green;
+    border: 2px solid red;
+    margin: 10px 20px;
+    width: 120px;
+    font-size: 40px; */
+}
+
+
+.picture5 {
+    width: 400px;
+    height: 700px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+
+  }
+
+#brown {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+.picture6 {
+    width: 400px;
+    height: 600px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    margin: 40px;
+    position: relative;
+    top: 20px;
+    background-image:url('3.PNG');
+    background-size: 520px;
+    display: inline-block;
+    margin:40px; /* If you want no margin */
+    padding:40px; /*if your want to padding */
+
+  }
+
+#white {
+    background-color: rgb(150, 0, 22);
+  }
